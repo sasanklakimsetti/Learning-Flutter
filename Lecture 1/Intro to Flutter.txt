@@ -1,0 +1,2 @@
+Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+It is powered by Dart, language optimised for fast apps on any platform.
